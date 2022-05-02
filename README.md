@@ -1,7 +1,7 @@
 ### Hi there :wave:
 
 * I'm currently working on https://github.com/googleapis/google-cloud-cpp
-* I'm also at https://twitter.com/unixjunkie, but I'm mostly a lurker
+* I'm also at https://twitter.com/devjgm, but I'm mostly a lurker
 
 <!--
 **devjgm/devjgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
