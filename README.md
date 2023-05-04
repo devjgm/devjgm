@@ -1,7 +1,8 @@
 ### Hi there :wave:
 
-* I'm currently working on https://github.com/googleapis/google-cloud-cpp
-* I'm also at https://twitter.com/devjgm, but I'm mostly a lurker
+* I'm a software engineer at https://github.com/osdyne
+* Ex-Google software engineer (18 years)
+* Interested in C++, Rust, operating system internals, and generally everything from the metal to the cloud
 
 <!--
 **devjgm/devjgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
